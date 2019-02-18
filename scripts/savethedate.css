@@ -29,6 +29,10 @@
 	min-height: 100%;
 }
 
+#emblem {
+	text-align: right;
+}
+
 #date {
 	font-family: Some Weatz;
 	font-size: 800%;
