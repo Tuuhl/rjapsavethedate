@@ -1,3 +1,8 @@
+@font-face {
+	font-family: "Some Weatz";
+	src: url("../fonts/SomeWeatz_with_swashes.ttf");
+}
+
 * {
 	font-family: Verdana, 'Open Sans', sans-serif;
 	color: #d6d6d6;
@@ -20,6 +25,7 @@
 }
 
 #date {
+	font-family: Some Weatz;
 	font-size: 800%;
 	text-align: center;
 }
