@@ -1,11 +1,41 @@
 @font-face {
 	font-family: "Some Weatz";
-	src: url("../fonts/SomeWeatz_with_swashes.ttf");
+	src: url("../fonts/SomeWeatz_with_symbols.ttf");
 }
 
 @font-face {
 	font-family: "Windsong";
 	src: url("../fonts/Windsong.ttf");
+}
+
+@font-face {
+	font-family: "Riesling";
+	src: url("../fonts/riesling.ttf");
+}
+
+@font-face {
+	font-family: "HenryMorganHand";
+	src: url("../fonts/HenryMorganHand.ttf");
+}
+
+@font-face {
+	font-family: "Nickainley";
+	src: url("../fonts/Nickainley-Normal.ttf");
+}
+
+@font-face {
+	font-family: "Sunday";
+	src: url("../fonts/Sunday-Regular.ttf");
+}
+
+@font-face {
+	font-family: "AquilineTwo";
+	src: url("../fonts/AquilineTwo.ttf");
+}
+
+@font-face {
+	font-family: "StylisCalligraphy";
+	src: url("../fonts/Stylish_Calligraphy.ttf");
 }
 
 * {
@@ -36,40 +66,42 @@
 }
 
 #date {
-	font-family: Some Weatz;
-	font-size: 800%;
+	font-family: StylisCalligraphy;
+	font-size: 900%;
 	text-align: center;
 	padding-top: 2%;
 }
 
 #haaHashtag {
-	font-family: Quicksand;
+	font-family: Nickainley;
 	font-size: 350%;
 	padding-top: 4%;
 	text-align: center;
 }
 
 #names {
-	font-family: Windsong;
+	font-family: Riesling;
 	font-size: 650%;
 	padding-top: 4%;
 	text-align: center;
 }
 
-#time {
-	font-size: 250%;
-	padding-top: 6%;
+#location {
+	font-family: Riesling;
+	font-size: 300%;
+	padding-top: 18%;
 	text-align: center;
 }
 
-#location {
-	font-size: 250%;
-	padding-top: 6%;
+#time {
+	font-family: Riesling;
+	font-size: 300%;
 	text-align: center;
 }
 
 #timer {
-	font-size: 220%;
+	font-family: Nickainley;
+	font-size: 250%;
 	text-align: center;
 	padding-bottom: 20%;
 }
