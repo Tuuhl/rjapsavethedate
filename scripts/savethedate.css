@@ -1,23 +1,22 @@
 * {
 	font-family: Verdana, 'Open Sans', sans-serif;
-	color: #ddd7dd;
+	color: #d6d6d6;
 	/*text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5), 0px 0px 10px rgba(0, 0, 0, 0.5);*/
 }
 
 #card {
-	
-}
-
-#cardOuter {
-	background-color: #ddd7dd;
-	padding: 40px;
 	height: 1000px;
 }
 
+#cardOuter {
+	background-color: #d6d6d6;
+	padding: 8%;
+	min-height: 100%;
+}
+
 #cardInner {
-	background-color: #fb8cff;
-	height: 940px;
-	padding: 0px;
+	background-color: #cc2277;
+	min-height: 100%;
 }
 
 #date {
@@ -46,4 +45,5 @@
 #timer {
 	font-size: 180%;
 	text-align: center;
+	padding-bottom: 20%;
 }
