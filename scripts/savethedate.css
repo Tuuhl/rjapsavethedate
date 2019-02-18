@@ -11,12 +11,11 @@
 * {
 	font-family: Verdana, 'Open Sans', sans-serif;
 	color: #d6d6d6;
-	overflow: hidden;
 	/*text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5), 0px 0px 10px rgba(0, 0, 0, 0.5);*/
 }
 
 #card {
-	height: 1000px;
+	height: 1200px;
 }
 
 #cardOuter {
@@ -38,21 +37,22 @@
 }
 
 #haaHashtag {
+	font-family: Quicksand;
 	font-size: 350%;
-	padding-top: 2%;
+	padding-top: 4%;
 	text-align: center;
 }
 
 #names {
 	font-family: Windsong;
 	font-size: 650%;
-	padding-top: 2%;
+	padding-top: 4%;
 	text-align: center;
 }
 
 #timeandlocation {
 	font-size: 200%;
-	padding-top: 4%;
+	padding-top: 6%;
 	text-align: center;
 }
 
