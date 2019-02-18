@@ -19,14 +19,16 @@
 }
 
 #cardOuter {
-	background-color: #d6d6d6;
+	background-color: #560b2f;
 	padding: 8%;
 	min-height: 100%;
 }
 
 #cardInner {
-	background-color: #cc2277;
+	background-color: #8a1a54;
 	min-height: 100%;
+	border-style: solid;
+	border-color: #f5f8f8;
 }
 
 #emblem {
@@ -54,7 +56,13 @@
 	text-align: center;
 }
 
-#timeandlocation {
+#time {
+	font-size: 200%;
+	padding-top: 6%;
+	text-align: center;
+}
+
+#location {
 	font-size: 200%;
 	padding-top: 6%;
 	text-align: center;
