@@ -11,6 +11,7 @@
 * {
 	font-family: Verdana, 'Open Sans', sans-serif;
 	color: #d6d6d6;
+	overflow: hidden;
 	/*text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5), 0px 0px 10px rgba(0, 0, 0, 0.5);*/
 }
 
@@ -33,6 +34,7 @@
 	font-family: Some Weatz;
 	font-size: 800%;
 	text-align: center;
+	padding-top: 2%;
 }
 
 #haaHashtag {
