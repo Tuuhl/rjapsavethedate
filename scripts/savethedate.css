@@ -7,10 +7,12 @@
 #cardOuter {
 	background-color: #ddd7dd;
 	padding: 5%;
+	height: 100%;
 }
 
 #cardInner {
 	background-color: #fb8cff;
+	height: 100%;
 }
 
 #date {
