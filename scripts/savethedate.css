@@ -3,6 +3,11 @@
 	src: url("../fonts/SomeWeatz_with_swashes.ttf");
 }
 
+@font-face {
+	font-family: "Windsong";
+	src: url("../fonts/Windsong.ttf");
+}
+
 * {
 	font-family: Verdana, 'Open Sans', sans-serif;
 	color: #d6d6d6;
@@ -37,7 +42,8 @@
 }
 
 #names {
-	font-size: 450%;
+	font-family: Windsong;
+	font-size: 650%;
 	padding-top: 2%;
 	text-align: center;
 }
