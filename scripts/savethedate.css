@@ -5,17 +5,19 @@
 }
 
 #card {
-	height: 100vh;
+	
 }
 
 #cardOuter {
 	background-color: #ddd7dd;
-	height: 100vh;
+	padding: 40px;
+	height: 1000px;
 }
 
 #cardInner {
 	background-color: #fb8cff;
-	height: 100vh;
+	height: 940px;
+	padding: 0px;
 }
 
 #date {
