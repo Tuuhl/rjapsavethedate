@@ -38,6 +38,74 @@
 	src: url("../fonts/Stylish_Calligraphy.ttf");
 }
 
+/*******/
+
+@font-face {
+	font-family: "Attraction";
+	src: url("../fonts/Attraction.ttf");
+}
+
+@font-face {
+	font-family: "BeautifulPeople";
+	src: url("../fonts/Beautiful People.ttf");
+}
+
+@font-face {
+	font-family: "Bigdey";
+	src: url("../fonts/Bigdey.ttf");
+}
+
+@font-face {
+	font-family: "BunchBlossoms";
+	src: url("../fonts/Bunch Blossoms.ttf");
+}
+
+font-face {
+	font-family: "Cassandra";
+	src: url("../fonts/Cassandra.ttf");
+}
+
+@font-face {
+	font-family: "CountrysideTwo";
+	src: url("../fonts/Countryside Two.ttf");
+}
+
+@font-face {
+	font-family: "Countryside";
+	src: url("../fonts/Countryside.ttf");
+}
+
+@font-face {
+	font-family: "LemonJelly";
+	src: url("../fonts/Lemon Jelly.ttf");
+}
+
+@font-face {
+	font-family: "LovelyHome";
+	src: url("../fonts/Lovely Home.ttf");
+}
+
+@font-face {
+	font-family: "Painter";
+	src: url("../fonts/Painter.ttf");
+}
+
+@font-face {
+	font-family: "QuiteMagical";
+	src: url("../fonts/Quite Magical.ttf");
+}
+
+
+@font-face {
+	font-family: "SweetHipster";
+	src: url("../fonts/Sweet Hipster.ttf");
+}
+
+@font-face {
+	font-family: "VeganStyle";
+	src: url("../fonts/Vegan Style.ttf");
+}
+
 * {
 	font-family: Verdana, 'Open Sans', sans-serif;
 	color: #d6d6d6;
@@ -66,23 +134,22 @@
 }
 
 #date {
-	font-family: StylisCalligraphy;
+	font-family: Countryside;
 	font-size: 900%;
 	text-align: center;
 	padding-top: 2%;
 }
 
 #haaHashtag {
-	font-family: Nickainley;
+	font-family: QuiteMagical;
 	font-size: 350%;
-	padding-top: 4%;
+	padding-top: 8%;
 	text-align: center;
 }
 
 #names {
-	font-family: Riesling;
 	font-size: 650%;
-	padding-top: 4%;
+	font-family: Riesling;
 	text-align: center;
 }
 
@@ -99,9 +166,13 @@
 	text-align: center;
 }
 
+
 #timer {
 	font-family: Nickainley;
 	font-size: 250%;
 	text-align: center;
 	padding-bottom: 15%;
+}
+
+#heart {
 }
