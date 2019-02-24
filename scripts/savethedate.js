@@ -9,7 +9,7 @@ var main = function() {
 	
 	$("#timer").text(days + " days");
 	
-	$("#emblem").click(function(){
+	$("#mikkiImg").click(function(){
 		window.location.href='https://www.youtube.com/watch?v=dmM32uCVR_A';
 	});
 }
